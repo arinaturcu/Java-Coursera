@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/arina/Desktop/Java-Coursera/**/*.jar"
+    ],
+    "oneDarkPro.editorTheme": "vscode",
+    "oneDarkPro.italic": false,
+    
+}

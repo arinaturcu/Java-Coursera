@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/arina/Desktop/Java/CSV_ExportData/**/*.jar",
+        "/home/arina/Downloads/**/*.jar",
+        "/home/arina/Desktop/Java/**/*.jar"
+    ]
+}
